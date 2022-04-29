@@ -44,7 +44,7 @@
 <script setup></script>
 
 <style lang="sass" scoped>
-@import './assets/colors'
+@import './assets/variables'
 @import './assets/mixins'
 .body
   @include flex(column, center, center, 5px)
@@ -61,6 +61,8 @@
     padding: 5px 15px
     border: 1px solid $color5
     border-radius: 8px
+    font-size: $fontSizeSmall
     .item__tittle
       text-decoration: underline
+      font-size: $fontSizeMedium - 4px
 </style>

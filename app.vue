@@ -5,8 +5,15 @@
   </div>
 </template>
 
+<script setup>
+useHead({
+  title: 'DnD-CharGen',
+  link: [{ rel: 'icon', type: 'image/x-icon', href: './assets/images/favicon.ico' }],
+});
+</script>
+
 <style lang="sass">
-@import './assets/colors'
+@import './assets/variables'
 @import './assets/mixins'
 *
   text-decoration: none

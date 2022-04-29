@@ -16,7 +16,7 @@
 <script setup></script>
 
 <style lang="sass" scoped>
-@import './assets/colors'
+@import './assets/variables'
 @import './assets/mixins'
 .header
   @include flex(row, center, flex-start, 15px)
@@ -33,16 +33,17 @@
     background-position: center
   .header__title
     @include flex(row, center, flex-start, 0)
-    font-size: 38px
-    margin: 0 50px
+    font-size: $fontSizeBig
+    margin: 0 5%
     color: $color5
     text-shadow: $color4 -3px 3px 6px
   .header__link
     color: $color5
-    padding: 15px
+    padding: 10px
     border: 1px solid $color5
     border-radius: 8px
     transition: all 0.2s ease-out
+    font-size: $fontSizeMedium
     &:hover
       color: $color3
       border-color: $color3
