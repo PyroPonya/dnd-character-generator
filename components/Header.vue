@@ -1,9 +1,9 @@
 <template>
   <div class="header">
-    <a class="header__link" href="#">
+    <a class="header__link" href="/">
       <span>Builder</span>
     </a>
-    <a class="header__link" href="#">
+    <a class="header__link" href="/roller">
       <span>Roller</span>
     </a>
     <span class="header__title">

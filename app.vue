@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Header />
-    <Body />
+    <NuxtPage />
   </div>
 </template>
 
@@ -26,6 +26,7 @@ useHead({
   text-align: center
 #app
   min-height: 100vh
+  min-width: 100vw
   background-color: $color5
   color: $color5
   @include flex(column, center, flex-start, 15px)
