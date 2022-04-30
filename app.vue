@@ -8,7 +8,7 @@
 <script setup>
 useHead({
   title: 'DnD-CharGen',
-  link: [{ rel: 'icon', type: 'image/x-icon', href: './assets/images/favicon.ico' }],
+  link: [{ rel: 'icon', type: 'image/x-icon', href: './public/favicon.ico' }],
 });
 </script>
 
