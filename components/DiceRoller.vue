@@ -27,6 +27,30 @@
 </template>
 
 <script setup>
+/*** hero_pool ***/
+const StandardArray5E = [17, 15, 13, 12, 10, 8];
+/*** classic ***/
+// const StandardArray5E = [15, 14, 13, 12, 10, 8];
+let currentRollFull = [0, 0, 0, 0, 0, 0];
+
+/*** rolls 4d6, turns all 1's into 2's, drops lowest element, returns summ ***/
+const diceRoll = () => {
+  const currentRoll = [];
+  for (let i = 0; i < 4; i++) {
+    let dSix = Math.floor(Math.random() * 6 + 1);
+    if (dSix == 1) {
+      /*** reroll 1's? ***/
+      ++dSix;
+    }
+    currentRoll.push(dSix);
+  }
+  currentRoll
+    .sort(function (a, b) {
+      return b - a;
+    })
+    .pop();
+  return currentRoll.reduce((a, b) => a + b, 0);
+};
 </script>
 
 <style lang="sass" scoped>
