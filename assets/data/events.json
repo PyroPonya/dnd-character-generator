@@ -1,0 +1,81 @@
+{
+  "events": {
+    "adventures": [
+      "You nearly died. You have nasty scars on your body, and you are missing an ear, 1d3 fingers, or 1d4 toes.",
+      "You suffered a grievous injury. Although the wound healed, it still pains you from time to time.",
+      "You were wounded, but in time you fully recovered.",
+      "You contracted a disease while exploring a filthy warren. You recovered from the disease, but you have a persistent cough, pockmarks on your skin, or prematurely gray hair.",
+      "You were poisoned by a trap or a monster. You recovered, but the next time you must make a saving throw against poison, you make the saving throw with disadvantage.",
+      "You lost something of sentimental value to you during your adventure. Remove one trinket from your possessions.",
+      "You were terribly frightened by something you encountered and ran away, abandoning your companions to their fate.",
+      "You learned a great deal during your adventure. The next time you make an ability check or a saving throw, you have advantage on the roll.",
+      "You found some treasure on your adventure. You have 2d6 gp left from your share of it.",
+      "You found a considerable amount of treasure on your adventure. You have 1d20+50 gp left from your share of it.",
+      "You came across a common magic item (of the DM's choice)."
+    ],
+    "arcane": [
+      "You were charmed or frightened by a spell.",
+      "You were injured by the effect of a spell.",
+      "You witnessed a powerful spell being cast by a cleric, a druid, a sorcerer, a warlock, or a wizard.",
+      "You drank a potion (of the DM's choice).",
+      "You found a spell scroll (of the DM's choice) and succeeded in casting the spell it contained.",
+      "You were affected by teleportation magic.",
+      "You turned invisible for a time.",
+      "You identified an illusion for what it was.",
+      "You saw a creature being conjured by magic.",
+      "Your fortune was read by a diviner. Roll twice on the Life Events table, but don't apply the results. Instead, the DM picks one event as a portent of your future (which might or might not come true)."
+    ],
+    "boons": [
+      "A friendly wizard gave you a spell scroll containing one cantrip (of the DM's choice).",
+      "You saved the life of a commoner, who now owes you a life debt. This individual accompanies you on your travels and performs mundane tasks for you, but will leave if neglected, abused, or imperiled. Determine details about this character by using the supplemental tables and working with your DM.",
+      "You found a riding horse.",
+      "You found some money. You have 1d20 gp in addition to your regular starting funds.",
+      "A relative bequeathed you a simple weapon of your choice.",
+      "You found something interesting. You gain one additional trinket.",
+      "You once performed a service for a local temple. The next time you visit the temple, you can receive healing up to your hit point maximum.",
+      "A friendly alchemist gifted you with a potion of healing or a flask of acid, as you choose.",
+      "You found a treasure map.",
+      "A distant relative left you a stipend that enables you to live at the comfortable lifestyle for 1d20 years. If you choose to live at a higher lifestyle, you reduce the price of the lifestyle by 2 gp during that time period."
+    ],
+    "supernatural": [
+      "You were ensorcelled by a fey and enslaved for 1d6 years before you escaped.",
+      "You saw a demon and ran away before it could do anything to you.",
+      "A devil tempted you. Make a DC 10 Wisdom saving throw. On a failed save, your alignment shifts one step toward evil (if it's not evil already), and you start the game with an additional 1d20+50 gp.",
+      "You woke up one morning miles from your home, with no idea how you got there.",
+      "You visited a holy site and felt the presence of the divine there.",
+      "You witnessed a falling red star, a face appearing in the frost, or some other bizarre happening. You are certain that it was an omen of some sort.",
+      "You escaped certain death and believe it was the intervention of a god that saved you.",
+      "You witnessed a minor miracle.",
+      "You explored an empty house and found it to be haunted.",
+      "You were briefly possessed. Roll a d6 to determine what kind of creature possessed you: 1, celestial; 2, devil; 3, demon; 4, fey; 5, elemental; 6, undead.",
+      "You saw a ghost.",
+      "You saw a ghoul feeding on a corpse.",
+      "A Celestial or Fiend visited you in your dreams to give a warning of dangers to come.",
+      "You briefly visited the Feywild or Shadowfell.",
+      "You saw a portal that you believe leads to another plane of existence."
+    ],
+    "weird": [
+      "You were turned into a toad and remained in that form for 1d4 weeks.",
+      "You were petrified and remained a stone statue for a time until someone freed you.",
+      "You were enslaved by a hag, a satyr, or some other being and lived in that creature's thrall for 1d6 years.",
+      "A dragon held you as a prisoner for 1d4 months until adventurers killed it.",
+      "You were taken captive by a race of evil humanoids such as drow, kuo-toa, or quaggoths. You lived as a slave in the Underdark until you escaped.",
+      "You served a powerful adventurer as a hireling. You have only recently left that service. Use the supplemental tables and work with your DM to determine the basic details about your former employer.",
+      "You went insane for 1d6 years and recently regained your sanity. A tic or some other bit of odd behavior might linger.",
+      "A lover of yours was secretly a silver dragon.",
+      "You were captured by a cult and nearly sacrificed on an altar to the foul being the cultists served. You escaped, but you fear they will find you.",
+      "You met a demigod, an archdevil, an archfey, a demon lord, or a titan, and you lived to tell the tale.",
+      "You were swallowed by a giant fish and spent a month in its gullet before you escaped.",
+      "A powerful being granted you a wish, but you squandered it on something frivolous."
+    ],
+    "alignment": [
+      "Chaotic evil (50%) or chaotic neutral (50%)",
+      "Lawful evil",
+      "Neutral evil",
+      "Neutral",
+      "Neutral good",
+      "Lawful good (50%) or lawful neutral (50%)",
+      "Chaotic good (50%) or chaotic neutral (50%)"
+    ]
+  }
+}

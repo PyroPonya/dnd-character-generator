@@ -1,79 +1,81 @@
 {
-  "parents": [
-    "You do not know who your parents were.",
-    "One parent was your race and the other was a human.",
-    "One parent was an elf and the other was your race.",
-    "Both parents were your race.",
-    "One parent was your race and the other was a half-orc.",
-    "One parent was your race and the other was a half-elf.",
-    "One parent was your race and the other was a devil.",
-    "One parent was a tiefling and the other was your race."
-  ],
-  "birthplace": [
-    "Home",
-    "Home of a family friend",
-    "Home of a healer or midwife",
-    "Carriage, cart, or wagon",
-    "Barn, shed, or other outbuilding",
-    "Cave",
-    "Field",
-    "Forest",
-    "Temple",
-    "Battlefield",
-    "Alley or street",
-    "Brothel, tavern, or inn",
-    "Castle, keep, tower, or palace",
-    "Sewer or rubbish heap",
-    "Among people of a different race",
-    "On board a boat or a ship",
-    "In a prison or in the headquarters of a secret organization",
-    "In a sage's laboratory",
-    "In the Feywild",
-    "In the Shadowfell",
-    "On the Astral Plane or the Ethereal Plane",
-    "On an Inner Plane of your choice",
-    "On an Outer Plane of your choice"
-  ],
-  "siblings": [
-    "None",
-    "One, older",
-    "One, younger",
-    "Two, older",
-    "Two, younger",
-    "Three, older",
-    "Three, younger"
-  ],
-  "friends": [
-    "None",
-    "Institution, such as an asylum",
-    "Temple",
-    "Orphanage",
-    "Guardian",
-    "Paternal or maternal aunt, uncle, or both",
-    "Paternal or maternal grandparent(s)",
-    "Adoptive family (same or different race)",
-    "Single father or stepfather",
-    "Single mother or stepmother",
-    "Mother and father"
-  ],
-  "lifestyle": [
-    "Wretched (-40)",
-    "Squalid (-20)",
-    "Poor (-10)",
-    "Modest (+0)",
-    "Comfortable (+10)",
-    "Wealthy (+20)",
-    "Aristocratic (+40)"
-  ],
-  "home": [
-    "On the streets",
-    "Rundown shack",
-    "No permanent residence",
-    "Encampment or village in the wilderness",
-    "Apartment in a rundown neighborhood",
-    "Small house",
-    "Large house",
-    "Mansion",
-    "Palace or castle"
-  ]
+  "life": {
+    "parents": [
+      "You do not know who your parents were.",
+      "One parent was your race and the other was a human.",
+      "One parent was an elf and the other was your race.",
+      "Both parents were your race.",
+      "One parent was your race and the other was a half-orc.",
+      "One parent was your race and the other was a half-elf.",
+      "One parent was your race and the other was a devil.",
+      "One parent was a tiefling and the other was your race."
+    ],
+    "birthplace": [
+      "Home",
+      "Home of a family friend",
+      "Home of a healer or midwife",
+      "Carriage, cart, or wagon",
+      "Barn, shed, or other outbuilding",
+      "Cave",
+      "Field",
+      "Forest",
+      "Temple",
+      "Battlefield",
+      "Alley or street",
+      "Brothel, tavern, or inn",
+      "Castle, keep, tower, or palace",
+      "Sewer or rubbish heap",
+      "Among people of a different race",
+      "On board a boat or a ship",
+      "In a prison or in the headquarters of a secret organization",
+      "In a sage's laboratory",
+      "In the Feywild",
+      "In the Shadowfell",
+      "On the Astral Plane or the Ethereal Plane",
+      "On an Inner Plane of your choice",
+      "On an Outer Plane of your choice"
+    ],
+    "siblings": [
+      "None",
+      "One, older",
+      "One, younger",
+      "Two, older",
+      "Two, younger",
+      "Three, older",
+      "Three, younger"
+    ],
+    "friends": [
+      "None",
+      "Institution, such as an asylum",
+      "Temple",
+      "Orphanage",
+      "Guardian",
+      "Paternal or maternal aunt, uncle, or both",
+      "Paternal or maternal grandparent(s)",
+      "Adoptive family (same or different race)",
+      "Single father or stepfather",
+      "Single mother or stepmother",
+      "Mother and father"
+    ],
+    "lifestyle": [
+      "Wretched (-40)",
+      "Squalid (-20)",
+      "Poor (-10)",
+      "Modest (+0)",
+      "Comfortable (+10)",
+      "Wealthy (+20)",
+      "Aristocratic (+40)"
+    ],
+    "home": [
+      "On the streets",
+      "Rundown shack",
+      "No permanent residence",
+      "Encampment or village in the wilderness",
+      "Apartment in a rundown neighborhood",
+      "Small house",
+      "Large house",
+      "Mansion",
+      "Palace or castle"
+    ]
+  }
 }
