@@ -185,6 +185,6 @@
     "People. I help people who help me--that's what keeps us alive.",
     "Aspiration. I'm going to prove that I'm worthy of a better life."
   ],
-  "bonds": [],
-  "flaws": []
+  "bonds": [""],
+  "flaws": [""]
 }
