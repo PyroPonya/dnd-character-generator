@@ -1,4 +1,5 @@
 {
+  "pool": ["adventures", "arcane", "boons", "supernatural", "weird"],
   "adventures": [
     "You nearly died. You have nasty scars on your body, and you are missing an ear, 1d3 fingers, or 1d4 toes.",
     "You suffered a grievous injury. Although the wound healed, it still pains you from time to time.",
