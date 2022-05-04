@@ -1,11 +1,11 @@
 <template>
   <div class="header">
-    <a class="header__link" href="/">
+    <NuxtLink class="header__link" to="/">
       <span>Builder</span>
-    </a>
-    <a class="header__link" href="/roller">
+    </NuxtLink>
+    <NuxtLink class="header__link" to="/roller">
       <span>Roller</span>
-    </a>
+    </NuxtLink>
     <span class="header__title">
       <div class="logo"></div>
       DnD&nbsp;Character&nbsp;Generator</span
