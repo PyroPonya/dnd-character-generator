@@ -1,503 +1,501 @@
 {
-  "race": {
-    "Aarakocra": {
-      "age": {
-        "mature": 3,
-        "max": 30
-      },
-      "source": ["DMG, page 282", "EEPC, page 5. Also found in EGW, page 165."]
+  "Aarakocra": {
+    "age": {
+      "mature": 3,
+      "max": 30
     },
-    "Aasimar": {
-      "age": {
-        "mature": 20,
-        "max": 160
-      },
-      "source": [
-        "DMG, page 286",
-        "MPMM, page 7",
-        "VGM, page 104. Also found in EGW, page 166"
-      ]
+    "source": ["DMG, page 282", "EEPC, page 5. Also found in EGW, page 165."]
+  },
+  "Aasimar": {
+    "age": {
+      "mature": 20,
+      "max": 160
     },
-    "Bugbear": {
-      "age": {
-        "mature": 16,
-        "max": 80
-      },
-      "source": [
-        "ERLW, page 25.",
-        "MPMM, page 8",
-        "VGM, page 119. Also found in EGW, page 174."
-      ]
+    "source": [
+      "DMG, page 286",
+      "MPMM, page 7",
+      "VGM, page 104. Also found in EGW, page 166"
+    ]
+  },
+  "Bugbear": {
+    "age": {
+      "mature": 16,
+      "max": 80
     },
-    "Bullywug": {
-      "age": {
-        "mature": 18,
-        "max": 60
-      },
-      "source": ["DMG, page 282"]
+    "source": [
+      "ERLW, page 25.",
+      "MPMM, page 8",
+      "VGM, page 119. Also found in EGW, page 174."
+    ]
+  },
+  "Bullywug": {
+    "age": {
+      "mature": 18,
+      "max": 60
     },
-    "Centaur": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["GGR, page 15.", "MOT, page 18.", "MPMM, page 9"]
+    "source": ["DMG, page 282"]
+  },
+  "Centaur": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Changeling": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["ERLW, page 17. Also found in WGE, page 60.", "MPMM, page 10"]
+    "source": ["GGR, page 15.", "MOT, page 18.", "MPMM, page 9"]
+  },
+  "Changeling": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Custom Lineage": {
-      "age": {
-        "mature": 18,
-        "max": 100
-      },
-      "source": ["TCE, page 8"]
+    "source": ["ERLW, page 17. Also found in WGE, page 60.", "MPMM, page 10"]
+  },
+  "Custom Lineage": {
+    "age": {
+      "mature": 18,
+      "max": 100
     },
-    "Deep Gnome": {
-      "age": {
-        "mature": 18,
-        "max": 500
-      },
-      "source": ["MPMM, page 11"]
+    "source": ["TCE, page 8"]
+  },
+  "Deep Gnome": {
+    "age": {
+      "mature": 18,
+      "max": 500
     },
-    "Dhampir": {
-      "age": {
-        "mature": 1,
-        "max": 2
-      },
-      "source": ["VRGR, page 16"]
+    "source": ["MPMM, page 11"]
+  },
+  "Dhampir": {
+    "age": {
+      "mature": 1,
+      "max": 2
     },
-    "Dragonborn": {
-      "age": {
-        "mature": 15,
-        "max": 80
-      },
-      "source": ["PHB, page 32.", "FTD, page 10", "EGW, page 168"]
+    "source": ["VRGR, page 16"]
+  },
+  "Dragonborn": {
+    "age": {
+      "mature": 15,
+      "max": 80
     },
-    "Duergar": {
-      "age": {
-        "mature": 18,
-        "max": 350
-      },
-      "source": ["MPMM, page 12"]
+    "source": ["PHB, page 32.", "FTD, page 10", "EGW, page 168"]
+  },
+  "Duergar": {
+    "age": {
+      "mature": 18,
+      "max": 350
     },
-    "Dwarf": {
-      "age": {
-        "mature": 20,
-        "max": 350
-      },
-      "source": [
-        "PHB, page 18",
-        "MTF, page 81. Also found in SCAG, page 104.",
-        "ERLW, page 51. Also found in WGE, page 108."
-      ]
+    "source": ["MPMM, page 12"]
+  },
+  "Dwarf": {
+    "age": {
+      "mature": 20,
+      "max": 350
     },
-    "Eladrin": {
-      "age": {
-        "mature": 100,
-        "max": 750
-      },
-      "source": ["MPMM, page 13"]
+    "source": [
+      "PHB, page 18",
+      "MTF, page 81. Also found in SCAG, page 104.",
+      "ERLW, page 51. Also found in WGE, page 108."
+    ]
+  },
+  "Eladrin": {
+    "age": {
+      "mature": 100,
+      "max": 750
     },
-    "Elf": {
-      "age": {
-        "mature": 100,
-        "max": 750
-      },
-      "source": [
-        "PHB, page 21.",
-        "PHB, page 24",
-        "DMG, page 286",
-        "MTF, page 61.",
-        "PHB, page 23.",
-        "ERLW, page 49. Also found in WGE, page 105.",
-        "EGW, page 21",
-        "MTF, page 62. Also found in EGW, page 163."
-      ]
+    "source": ["MPMM, page 13"]
+  },
+  "Elf": {
+    "age": {
+      "mature": 100,
+      "max": 750
     },
-    "Fairy": {
-      "age": {
-        "mature": 1,
-        "max": 1000
-      },
-      "source": ["MPMM, page 14", "WBtW, page 12."]
+    "source": [
+      "PHB, page 21.",
+      "PHB, page 24",
+      "DMG, page 286",
+      "MTF, page 61.",
+      "PHB, page 23.",
+      "ERLW, page 49. Also found in WGE, page 105.",
+      "EGW, page 21",
+      "MTF, page 62. Also found in EGW, page 163."
+    ]
+  },
+  "Fairy": {
+    "age": {
+      "mature": 1,
+      "max": 1000
     },
-    "Firbolg": {
-      "age": {
-        "mature": 30,
-        "max": 500
-      },
-      "source": ["MPMM, page 15", "VGM, page 107. Also found in EGW, page 169."]
+    "source": ["MPMM, page 14", "WBtW, page 12."]
+  },
+  "Firbolg": {
+    "age": {
+      "mature": 30,
+      "max": 500
     },
-    "Genasi": {
-      "age": {
-        "mature": 20,
-        "max": 120
-      },
-      "source": ["EEPC, page 9. Also found in EGW, page 170.", "MPMM, page 16"]
+    "source": ["MPMM, page 15", "VGM, page 107. Also found in EGW, page 169."]
+  },
+  "Genasi": {
+    "age": {
+      "mature": 20,
+      "max": 120
     },
-    "Gith": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["MTF, page 96"]
+    "source": ["EEPC, page 9. Also found in EGW, page 170.", "MPMM, page 16"]
+  },
+  "Gith": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Githyanki": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["MPMM, page 18"]
+    "source": ["MTF, page 96"]
+  },
+  "Githyanki": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Githzerai": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["MPMM, page 19"]
+    "source": ["MPMM, page 18"]
+  },
+  "Githzerai": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Gnoll": {
-      "age": {
-        "mature": 8,
-        "max": 60
-      },
-      "source": ["DMG, page 282"]
+    "source": ["MPMM, page 19"]
+  },
+  "Gnoll": {
+    "age": {
+      "mature": 8,
+      "max": 60
     },
-    "Gnome": {
-      "age": {
-        "mature": 40,
-        "max": 500
-      },
-      "source": [
-        "PHB, page 35",
-        "MTF, page 113.",
-        "DMG, page 282",
-        "SCAG, page 115. Also found in EEPC, page 5.",
-        "PHB, page 37",
-        "ERLW, page 47. Also found in WGE, page 103."
-      ]
+    "source": ["DMG, page 282"]
+  },
+  "Gnome": {
+    "age": {
+      "mature": 40,
+      "max": 500
     },
-    "Goblin": {
-      "age": {
-        "mature": 8,
-        "max": 60
-      },
-      "source": [
-        "DMG, page 282",
-        "ERLW, page 26.",
-        "GGR, page 16.",
-        "MPMM, page 20",
-        "VGM, page 119.  Also found in EGW, page 174."
-      ]
+    "source": [
+      "PHB, page 35",
+      "MTF, page 113.",
+      "DMG, page 282",
+      "SCAG, page 115. Also found in EEPC, page 5.",
+      "PHB, page 37",
+      "ERLW, page 47. Also found in WGE, page 103."
+    ]
+  },
+  "Goblin": {
+    "age": {
+      "mature": 8,
+      "max": 60
     },
-    "Goliath": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": [
-        "MPMM, page 21",
-        "VGM, page 108. Also found in EEPC, page 10; EGW, page 175; IDRotF."
-      ]
+    "source": [
+      "DMG, page 282",
+      "ERLW, page 26.",
+      "GGR, page 16.",
+      "MPMM, page 20",
+      "VGM, page 119.  Also found in EGW, page 174."
+    ]
+  },
+  "Goliath": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Grimlock": {
-      "age": {
-        "mature": 1,
-        "max": 50
-      },
-      "source": ["DMG, page 282"]
+    "source": [
+      "MPMM, page 21",
+      "VGM, page 108. Also found in EEPC, page 10; EGW, page 175; IDRotF."
+    ]
+  },
+  "Grimlock": {
+    "age": {
+      "mature": 1,
+      "max": 50
     },
-    "Half-Elf": {
-      "age": {
-        "mature": 20,
-        "max": 180
-      },
-      "source": [
-        "PHB, page 38.",
-        "SCAG, page 116",
-        "ERLW, page 40. Also found in WGE, page 96.",
-        "ERLW, page 50. Also found in WGE, page 106."
-      ]
+    "source": ["DMG, page 282"]
+  },
+  "Half-Elf": {
+    "age": {
+      "mature": 20,
+      "max": 180
     },
-    "Half-Orc": {
-      "age": {
-        "mature": 14,
-        "max": 75
-      },
-      "source": ["PHB, page 40.", "ERLW, page 41. Also found in WGE, page 98."]
+    "source": [
+      "PHB, page 38.",
+      "SCAG, page 116",
+      "ERLW, page 40. Also found in WGE, page 96.",
+      "ERLW, page 50. Also found in WGE, page 106."
+    ]
+  },
+  "Half-Orc": {
+    "age": {
+      "mature": 14,
+      "max": 75
     },
-    "Halfling": {
-      "age": {
-        "mature": 20,
-        "max": 250
-      },
-      "source": [
-        "PHB, page 26.",
-        "SCAG, page 110",
-        "PHB, page 28.",
-        "EGW, page 164",
-        "ERLW, page 43. Also found in WGE, page 99.",
-        "ERLW, page 44. Also found in WGE, page 100."
-      ]
+    "source": ["PHB, page 40.", "ERLW, page 41. Also found in WGE, page 98."]
+  },
+  "Halfling": {
+    "age": {
+      "mature": 20,
+      "max": 250
     },
-    "Harengon": {
-      "age": {
-        "mature": 1,
-        "max": 1000
-      },
-      "source": ["MPMM, page 22", "WBtW, page 13."]
+    "source": [
+      "PHB, page 26.",
+      "SCAG, page 110",
+      "PHB, page 28.",
+      "EGW, page 164",
+      "ERLW, page 43. Also found in WGE, page 99.",
+      "ERLW, page 44. Also found in WGE, page 100."
+    ]
+  },
+  "Harengon": {
+    "age": {
+      "mature": 1,
+      "max": 1000
     },
-    "Hexblood": {
-      "age": {
-        "mature": 1,
-        "max": 1000
-      },
-      "source": ["VRGR, page 18"]
+    "source": ["MPMM, page 22", "WBtW, page 13."]
+  },
+  "Hexblood": {
+    "age": {
+      "mature": 1,
+      "max": 1000
     },
-    "Hobgoblin": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": [
-        "DMG, page 282",
-        "ERLW, page 26.",
-        "MPMM, page 23",
-        "VGM, page 119. Also found in EGW, page 175."
-      ]
+    "source": ["VRGR, page 18"]
+  },
+  "Hobgoblin": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Human": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": [
-        "PHB, page 29.",
-        "ERLW, page 41",
-        "ERLW, page 42. Also found in WGE, page 98.",
-        "ERLW, page 45. Also found in WGE, page 101.",
-        "ERLW, page 46. Also found in WGE, page 102.",
-        "ERLW, page 48. Also found in WGE, page 104.",
-        "PHB, page 31"
-      ]
+    "source": [
+      "DMG, page 282",
+      "ERLW, page 26.",
+      "MPMM, page 23",
+      "VGM, page 119. Also found in EGW, page 175."
+    ]
+  },
+  "Human": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Kalashtar": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["ERLW, page 29. Also found in WGE, page 62."]
+    "source": [
+      "PHB, page 29.",
+      "ERLW, page 41",
+      "ERLW, page 42. Also found in WGE, page 98.",
+      "ERLW, page 45. Also found in WGE, page 101.",
+      "ERLW, page 46. Also found in WGE, page 102.",
+      "ERLW, page 48. Also found in WGE, page 104.",
+      "PHB, page 31"
+    ]
+  },
+  "Kalashtar": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Kenku": {
-      "age": {
-        "mature": 12,
-        "max": 60
-      },
-      "source": [
-        "DMG, page 282.",
-        "MPMM, page 24",
-        "VGM, page 109. Also found in EGW, page 177."
-      ]
+    "source": ["ERLW, page 29. Also found in WGE, page 62."]
+  },
+  "Kenku": {
+    "age": {
+      "mature": 12,
+      "max": 60
     },
-    "Kobold": {
-      "age": {
-        "mature": 6,
-        "max": 120
-      },
-      "source": ["DMG, page 282", "MPMM, page 25", "VGM, page 119."]
+    "source": [
+      "DMG, page 282.",
+      "MPMM, page 24",
+      "VGM, page 109. Also found in EGW, page 177."
+    ]
+  },
+  "Kobold": {
+    "age": {
+      "mature": 6,
+      "max": 120
     },
-    "Kuo-Toa": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["DMG, page 282"]
+    "source": ["DMG, page 282", "MPMM, page 25", "VGM, page 119."]
+  },
+  "Kuo-Toa": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Leonin": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["MOT, page 20"]
+    "source": ["DMG, page 282"]
+  },
+  "Leonin": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Lizardfolk": {
-      "age": {
-        "mature": 14,
-        "max": 80
-      },
-      "source": ["DMG, page 282", "MPMM, page 26", "VGM, page 111."]
+    "source": ["MOT, page 20"]
+  },
+  "Lizardfolk": {
+    "age": {
+      "mature": 14,
+      "max": 80
     },
-    "Loxodon": {
-      "age": {
-        "mature": 20,
-        "max": 450
-      },
-      "source": ["GGR, page 17"]
+    "source": ["DMG, page 282", "MPMM, page 26", "VGM, page 111."]
+  },
+  "Loxodon": {
+    "age": {
+      "mature": 20,
+      "max": 450
     },
-    "Merfolk": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["DMG, page 282"]
+    "source": ["GGR, page 17"]
+  },
+  "Merfolk": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Minotaur": {
-      "age": {
-        "mature": 17,
-        "max": 150
-      },
-      "source": ["GGR, page 18.", "MOT, page 22.", "MPMM, page 27"]
+    "source": ["DMG, page 282"]
+  },
+  "Minotaur": {
+    "age": {
+      "mature": 17,
+      "max": 150
     },
-    "Orc": {
-      "age": {
-        "mature": 12,
-        "max": 50
-      },
-      "source": [
-        "DMG, page 282",
-        "EGW, page 178.",
-        "ERLW, page 31.",
-        "MPMM, page 28",
-        "VGM, page 120."
-      ]
+    "source": ["GGR, page 18.", "MOT, page 22.", "MPMM, page 27"]
+  },
+  "Orc": {
+    "age": {
+      "mature": 12,
+      "max": 50
     },
-    "Owlin": {
-      "age": {
-        "mature": 20,
-        "max": 450
-      },
-      "source": ["SCC, page 29"]
+    "source": [
+      "DMG, page 282",
+      "EGW, page 178.",
+      "ERLW, page 31.",
+      "MPMM, page 28",
+      "VGM, page 120."
+    ]
+  },
+  "Owlin": {
+    "age": {
+      "mature": 20,
+      "max": 450
     },
-    "Reborn": {
-      "age": {
-        "mature": 1,
-        "max": 1000
-      },
-      "source": ["VRGR, page 20"]
+    "source": ["SCC, page 29"]
+  },
+  "Reborn": {
+    "age": {
+      "mature": 1,
+      "max": 1000
     },
-    "Satyr": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["MOT, page 24.", "MPMM, page 29"]
+    "source": ["VRGR, page 20"]
+  },
+  "Satyr": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Sea Elf": {
-      "age": {
-        "mature": 80,
-        "max": 750
-      },
-      "source": ["MPMM, page 30"]
+    "source": ["MOT, page 24.", "MPMM, page 29"]
+  },
+  "Sea Elf": {
+    "age": {
+      "mature": 80,
+      "max": 750
     },
-    "Shadar-Kai": {
-      "age": {
-        "mature": 20,
-        "max": 750
-      },
-      "source": ["MPMM, page 31"]
+    "source": ["MPMM, page 30"]
+  },
+  "Shadar-Kai": {
+    "age": {
+      "mature": 20,
+      "max": 750
     },
-    "Shifter": {
-      "age": {
-        "mature": 10,
-        "max": 70
-      },
-      "source": ["ERLW, page 33. Also found in WGE, page 64.", "MPMM, page 32"]
+    "source": ["MPMM, page 31"]
+  },
+  "Shifter": {
+    "age": {
+      "mature": 10,
+      "max": 70
     },
-    "Simic Hybrid": {
-      "age": {
-        "mature": 1,
-        "max": 500
-      },
-      "source": ["GGR, page 20"]
+    "source": ["ERLW, page 33. Also found in WGE, page 64.", "MPMM, page 32"]
+  },
+  "Simic Hybrid": {
+    "age": {
+      "mature": 1,
+      "max": 500
     },
-    "Skeleton": {
-      "age": {
-        "mature": 1,
-        "max": 1000
-      },
-      "source": ["DMG, page 282"]
+    "source": ["GGR, page 20"]
+  },
+  "Skeleton": {
+    "age": {
+      "mature": 1,
+      "max": 1000
     },
-    "Tabaxi": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["MPMM, page 33", " VGM, page 113. Also found in EGW, page 179."]
+    "source": ["DMG, page 282"]
+  },
+  "Tabaxi": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Tiefling": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["PHB, page 42.", "MTF, page 21", "SCAG, page 118"]
+    "source": ["MPMM, page 33", " VGM, page 113. Also found in EGW, page 179."]
+  },
+  "Tiefling": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Tortle": {
-      "age": {
-        "mature": 15,
-        "max": 50
-      },
-      "source": ["MPMM, page 34"]
+    "source": ["PHB, page 42.", "MTF, page 21", "SCAG, page 118"]
+  },
+  "Tortle": {
+    "age": {
+      "mature": 15,
+      "max": 50
     },
-    "Triton": {
-      "age": {
-        "mature": 15,
-        "max": 200
-      },
-      "source": ["MOT, page 26.", "MPMM, page 35", "VGM, page 115."]
+    "source": ["MPMM, page 34"]
+  },
+  "Triton": {
+    "age": {
+      "mature": 15,
+      "max": 200
     },
-    "Troglodyte": {
-      "age": {
-        "mature": 16,
-        "max": 300
-      },
-      "source": ["DMG, page 282"]
+    "source": ["MOT, page 26.", "MPMM, page 35", "VGM, page 115."]
+  },
+  "Troglodyte": {
+    "age": {
+      "mature": 16,
+      "max": 300
     },
-    "Vedalken": {
-      "age": {
-        "mature": 40,
-        "max": 500
-      },
-      "source": ["GGR, page 21"]
+    "source": ["DMG, page 282"]
+  },
+  "Vedalken": {
+    "age": {
+      "mature": 40,
+      "max": 500
     },
-    "Verdan": {
-      "age": {
-        "mature": 24,
-        "max": 200
-      },
-      "source": ["AI, page 72"]
+    "source": ["GGR, page 21"]
+  },
+  "Verdan": {
+    "age": {
+      "mature": 24,
+      "max": 200
     },
-    "Warforged": {
-      "age": {
-        "mature": 2,
-        "max": 30
-      },
-      "source": ["ERLW, page 35. Also found in WGE, page 67."]
+    "source": ["AI, page 72"]
+  },
+  "Warforged": {
+    "age": {
+      "mature": 2,
+      "max": 30
     },
-    "Yuan-Ti": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["MPMM, page 36"]
+    "source": ["ERLW, page 35. Also found in WGE, page 67."]
+  },
+  "Yuan-Ti": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Yuan-ti Pureblood": {
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "source": ["VGM, page 120."]
+    "source": ["MPMM, page 36"]
+  },
+  "Yuan-ti Pureblood": {
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    "Zombie": {
-      "age": {
-        "mature": 1,
-        "max": 1000
-      },
-      "source": ["DMG, page 282"]
-    }
+    "source": ["VGM, page 120."]
+  },
+  "Zombie": {
+    "age": {
+      "mature": 1,
+      "max": 1000
+    },
+    "source": ["DMG, page 282"]
   }
 }
