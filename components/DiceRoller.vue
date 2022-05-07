@@ -121,11 +121,11 @@ const standardArray = () => {
 <style lang="sass" scoped>
 @import './assets/variables'
 @import './assets/mixins'
-
 .diceRoller
   @include flex(column, center, center, 0.5%)
   padding: 2%
   min-height: 100px
+  min-width: 500px
   width: 90vw
   height: 90vh
   background-color: $color1

@@ -22,7 +22,8 @@
   @include flex(row, center, flex-start, 15px)
   background-color: $color1
   min-height: 50px
-  width: 100vw
+  min-width: 500px
+  width: 100%
   padding: 0.5% 2.5%
   .logo
     height: 50px
@@ -37,6 +38,8 @@
     margin: 0 5%
     color: $color5
     text-shadow: $color4 -3px 3px 6px
+    @media screen and (max-width: 800px)
+      font-size: $fontSizeSmall
   .header__link
     color: $color5
     padding: 10px

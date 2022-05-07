@@ -23,10 +23,10 @@ useHead({
   font-family: "Avenir", Helvetica, Arial, sans-serif
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
-  text-align: center
 #app
   min-height: 100vh
-  min-width: 100vw
+  min-width: 500px
+  width: 100%
   background-color: $color5
   color: $color5
   @include flex(column, center, flex-start, 15px)

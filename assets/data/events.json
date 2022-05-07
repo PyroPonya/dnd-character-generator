@@ -1,5 +1,4 @@
 {
-  "pool": ["adventures", "arcane", "boons", "supernatural", "weird"],
   "adventures": [
     "You nearly died. You have nasty scars on your body, and you are missing an ear, 1d3 fingers, or 1d4 toes.",
     "You suffered a grievous injury. Although the wound healed, it still pains you from time to time.",
@@ -11,9 +10,7 @@
     "You learned a great deal during your adventure. The next time you make an ability check or a saving throw, you have advantage on the roll.",
     "You found some treasure on your adventure. You have 2d6 gp left from your share of it.",
     "You found a considerable amount of treasure on your adventure. You have 1d20+50 gp left from your share of it.",
-    "You came across a common magic item (of the DM's choice)."
-  ],
-  "arcane": [
+    "You came across a common magic item (of the DM's choice).",
     "You were charmed or frightened by a spell.",
     "You were injured by the effect of a spell.",
     "You witnessed a powerful spell being cast by a cleric, a druid, a sorcerer, a warlock, or a wizard.",
@@ -23,9 +20,7 @@
     "You turned invisible for a time.",
     "You identified an illusion for what it was.",
     "You saw a creature being conjured by magic.",
-    "Your fortune was read by a diviner. Roll twice on the Life Events table, but don't apply the results. Instead, the DM picks one event as a portent of your future (which might or might not come true)."
-  ],
-  "boons": [
+    "Your fortune was read by a diviner. Roll twice on the Life Events table, but don't apply the results. Instead, the DM picks one event as a portent of your future (which might or might not come true).",
     "A friendly wizard gave you a spell scroll containing one cantrip (of the DM's choice).",
     "You saved the life of a commoner, who now owes you a life debt. This individual accompanies you on your travels and performs mundane tasks for you, but will leave if neglected, abused, or imperiled. Determine details about this character by using the supplemental tables and working with your DM.",
     "You found a riding horse.",
@@ -35,9 +30,7 @@
     "You once performed a service for a local temple. The next time you visit the temple, you can receive healing up to your hit point maximum.",
     "A friendly alchemist gifted you with a potion of healing or a flask of acid, as you choose.",
     "You found a treasure map.",
-    "A distant relative left you a stipend that enables you to live at the comfortable lifestyle for 1d20 years. If you choose to live at a higher lifestyle, you reduce the price of the lifestyle by 2 gp during that time period."
-  ],
-  "supernatural": [
+    "A distant relative left you a stipend that enables you to live at the comfortable lifestyle for 1d20 years. If you choose to live at a higher lifestyle, you reduce the price of the lifestyle by 2 gp during that time period.",
     "You were ensorcelled by a fey and enslaved for 1d6 years before you escaped.",
     "You saw a demon and ran away before it could do anything to you.",
     "A devil tempted you. Make a DC 10 Wisdom saving throw. On a failed save, your alignment shifts one step toward evil (if it's not evil already), and you start the game with an additional 1d20+50 gp.",
@@ -52,9 +45,7 @@
     "You saw a ghoul feeding on a corpse.",
     "A Celestial or Fiend visited you in your dreams to give a warning of dangers to come.",
     "You briefly visited the Feywild or Shadowfell.",
-    "You saw a portal that you believe leads to another plane of existence."
-  ],
-  "weird": [
+    "You saw a portal that you believe leads to another plane of existence.",
     "You were turned into a toad and remained in that form for 1d4 weeks.",
     "You were petrified and remained a stone statue for a time until someone freed you.",
     "You were enslaved by a hag, a satyr, or some other being and lived in that creature's thrall for 1d6 years.",
