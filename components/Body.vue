@@ -81,7 +81,8 @@
 
 <script setup>
 const generated = ref({});
-const dndData = ref({});
+// const dndData = ref({});
+const dndData = useDnData();
 const names = [
   'background',
   'class',
@@ -91,13 +92,15 @@ const names = [
   'secrets',
   'traitsIdealsBondsFlaws',
 ];
-for (let nameId in names) {
-  fetch(`./assets/data/${names[nameId]}.json`)
-    .then((resp) => resp.json())
-    .then((data) => {
-      dndData.value[`${names[nameId]}`] = data;
-    });
-}
+
+// Wanna save it for lulz
+// for (let nameId in names) {
+//   fetch(`./assets/data/${names[nameId]}.json`)
+//     .then((resp) => resp.json())
+//     .then((data) => {
+//       dndData.value[`${names[nameId]}`] = data;
+//     });
+// }
 
 const getRandomNum = (min, max) => {
   return Math.floor(Math.random() * max + min);
