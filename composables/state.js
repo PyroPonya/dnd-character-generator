@@ -543,7 +543,7 @@ export const useDnData = () =>
         Dhampir: {
           age: {
             mature: 1,
-            max: 2,
+            max: 750,
           },
           source: ['VRGR, page 16'],
         },
