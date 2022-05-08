@@ -279,6 +279,13 @@ const generateActer = () => {
     @extend .body__item
     background-color: $color5
     &__btn
+      // prevent selection start
+      user-select: none
+      -webkit-user-select: none
+      -moz-user-select: none
+      -khtml-user-select: none
+      -ms-user-select: none
+      // prevent selection end
       background-color: $color1
       border: 1px solid $color5
       border-radius: 8px
