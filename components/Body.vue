@@ -134,7 +134,9 @@ const generateActer = () => {
       nums.push(parseInt(Math.floor(Math.random() * advLength - 1)));
     }
     for (let num in nums) {
-      events.push(dndData.value.events.adventures[nums[num]]);
+      if (dndData.value.events.adventures[nums[num]]) {
+        events.push(dndData.value.events.adventures[nums[num]]);
+      }
     }
 
     generated.value['events'] = events;
