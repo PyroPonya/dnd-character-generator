@@ -81,19 +81,19 @@
 
 <script setup>
 const generated = ref({});
-// const dndData = ref({});
 const dndData = useDnData();
-const names = [
-  'background',
-  'class',
-  'events',
-  'life',
-  'race',
-  'secrets',
-  'traitsIdealsBondsFlaws',
-];
 
-// Wanna save it for lulz
+// Wanna do api.js?
+// const names = [
+//   'background',
+//   'class',
+//   'events',
+//   'life',
+//   'race',
+//   'secrets',
+//   'traitsIdealsBondsFlaws',
+// ];
+//
 // for (let nameId in names) {
 //   fetch(`./assets/data/${names[nameId]}.json`)
 //     .then((resp) => resp.json())
