@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <NuxtLink class="header__link" to="/">
+    <NuxtLink class="header__link" to="/chargen">
       <span>Builder</span>
     </NuxtLink>
     <NuxtLink class="header__link" to="/roller">

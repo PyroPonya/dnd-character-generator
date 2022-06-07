@@ -1,5 +1,5 @@
 <template>
   <div>
-    <dice-roller />
+    <char-gen />
   </div>
 </template>

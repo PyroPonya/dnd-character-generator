@@ -81,6 +81,12 @@
 
 <script setup>
 const generated = ref({});
+
+onMounted(() => {
+  if (!!localStorage.getItem('generated')) {
+    generated.value = JSON.parse(localStorage.getItem('generated'));
+  }
+});
 const dndData = useDnData();
 
 // Wanna do api.js?
@@ -101,6 +107,9 @@ const dndData = useDnData();
 //       dndData.value[`${names[nameId]}`] = data;
 //     });
 // }
+watch(generated, () => {
+  window.localStorage.setItem('generated', JSON.stringify(generated.value));
+});
 
 const getRandomNum = (min, max) => {
   return Math.floor(Math.random() * max + min);
